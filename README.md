@@ -30,10 +30,8 @@ UPSC Beginner Hub is a personal webpage designed to provide resources, guidance,
 
 ## How to Run the Project Locally:
    1. Clone the repository:
-   ```bash
-   git clone https://github.com/KrishnajaSurendran/upsc-beginner-hub.git
+      ```bash
+      git clone https://github.com/KrishnajaSurendran/UPSCBeginnerHub.git
    2. Navigate to the project directory:
         cd upsc-beginner-hub
    3. Open the index.html file in your browser to view the website locally.
-
-https://github.com/KrishnajaSurendran/UPSCBeginnerHub/edit/main/README.md
