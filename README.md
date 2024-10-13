@@ -16,11 +16,12 @@ UPSC Beginner Hub is a personal webpage designed to provide resources, guidance,
    
 3. **UPSC Syllabus Challenge**
    - Tips and strategies on how to manage and study the extensive UPSC syllabus effectively.
-   - Tackling the vast syllabus of the UPSC exam can be daunting. It requires consistent effort, proper time management, and strategic planning. Here's how you can approach it:
+   - Tackling the vast syllabus of the UPSC exam can be daunting.
+   - It requires consistent effort, proper time management, and strategic planning. Here's how you can approach it:
    - **Understand the Syllabus:** Start by carefully reading the syllabus for both Prelims and Mains. Divide it into manageable sections.
    - **Make a Study Plan:** Break down your study hours for daily and weekly goals. Focus on high-priority topics and current affairs.
-     **Practice Answer Writing:** Writing answers regularly will help you prepare better for the Mains examination.
-     **Revise:** Revision is crucial. Set aside time to regularly revise the topics you've covered.
+    - **Practice Answer Writing:** Writing answers regularly will help you prepare better for the Mains examination.
+    - **Revise:** Revision is crucial. Set aside time to regularly revise the topics you've covered.
 
 ## Technologies Used:
 - HTML5
